@@ -1,2 +1,2 @@
 # hexlet-my-first-workfow
-[![hello-word](https://github.com/vlad-sviridov/hexlet-my-first-workflow/actions/workflows/hello-word.yml/badge.svg)](https://github.com/vlad-sviridov/hexlet-my-first-workflow/actions/workflows/hello-word.yml
+[![hello-word](https://github.com/vlad-sviridov/hexlet-my-first-workflow/actions/workflows/hello-word.yml/badge.svg)]
